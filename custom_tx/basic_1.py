@@ -1,3 +1,4 @@
-and even newer sample code; 
-  holds_some_sample
-  code
+# some sample code with comment
+def newest_sample_code
+  call_a_function()
+  and_some_code
