@@ -1,2 +1,1 @@
-# update from github
-new_code('lol')
+updated_code_from_github()
